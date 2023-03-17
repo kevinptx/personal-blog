@@ -65,6 +65,7 @@ blockquote::after {
   content: close-quote;
 }
 
+/* source: https://css-tricks.com/quoting-in-html-quotations-citations-and-blockquotes/ */
 blockquote {
   quotes: "“" "”" "‘" "’";
   max-width: 20em;
