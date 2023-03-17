@@ -1,0 +1,31 @@
+.about {
+    align-items: center;
+    text-align: center;
+}
+
+figure {
+    align-items: center;
+}
+
+.self-image {
+    width: 20%;
+    height: auto;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+    align-items: center;
+}
+
+figcaption {
+    text-align: center;
+    align-items: center;
+}
+
+.about {
+    padding: 1rem;
+}
+
+.about-text {
+    text-align: justify;
+    line-height: 2;
+    padding: 1.5rem;
+}

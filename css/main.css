@@ -1,0 +1,24 @@
+@import url(navbar.css);
+@import url(topography.css);
+@import url(buttons.css);
+@import url(social-icons.css);
+@import url(card.css);
+@import url(footer.css);
+@import url(about.css);
+
+/* Blog Homepage */
+.blog-posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.blog-post {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+main {
+  padding: 2rem;
+}

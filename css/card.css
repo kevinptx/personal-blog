@@ -1,0 +1,90 @@
+/* Base styles for all screen sizes */
+.card {
+    background-color: #ffffff;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.card-description {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.post-card {
+    background-color: #f8f9fa;
+    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.05);
+    border-radius: 0.5rem;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    padding: 1.5rem;
+}
+
+.card-image,
+.card-image-post {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 2rem;
+    border-top-right-radius: 2rem;
+}
+
+.card-subtitle {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+}
+
+.card-excerpt {
+    flex-grow: 1;
+}
+
+.card-link {
+    margin-top: auto;
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.card-link:hover {
+    background-color: #0069d9;
+}
+
+/* Styles for screens larger than 768px */
+@media screen and (min-width: 768px) {
+    .card {
+        padding: 30px;
+    }
+
+    .card-title {
+        font-size: 2rem;
+    }
+
+    .card-description {
+        font-size: 1.2rem;
+        line-height: 1.8;
+    }
+}
+
+/* Styles for screens larger than 751px */
+@media (min-width: 751px) {
+    .card-image-post {
+        width: auto;
+    }
+}
+
+/* Styles for screens larger than 1024px */
+@media screen and (min-width: 1024px) {
+    .card {
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+}
