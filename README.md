@@ -1,36 +1,36 @@
 # personal-blog
 
-#This Personal Blog Website is the first project of four projects for Udacity's Front End Developer Nanodegree
+## This Personal Blog Website is the first project of four projects for Udacity's Front End Developer Nanodegree
 
-#Below are the critiera that must be met to pass:
+# Below are the critiera that must be met to pass:
 
-#Structure
+# Structure
 
-##CSS Separate From HTML
+## CSS Separate From HTML
 
 Portfolio completely separates structure from design/style.
 There are no attributes present in the body of the document.
 There are no elements in the document.
 
-#CSS Imports
+# CSS Imports
 
 There should be at least 3 imported files in the main CSS file, but the student is welcome to break it down even further if that makes it easier for them.
 
-##Directories & Files
+## Directories & Files
 
 Files are organized with a directory structure that separates files based on page and functionality.
 
-##Links
+## Links
 
 There is an intentional user flow on each page with appropriate links as needed.
 
-#Design
+# Design
 
-#Custom Design
+## Custom Design
 
 Custom images, layout, and styling.
 
-#Foundations/Building Blocks
+# Foundations/Building Blocks
 
 Typography: Custom design for typography with at least 3 unique properties for each typography selector
 Headers (h1 to h3 at minimum) <h1>
@@ -42,7 +42,7 @@ Links <a>
 Quotes
 Colors: At least 3 colors are used.
 
-##Components
+## Components
 
 The following are used in the webpage:
 
@@ -51,7 +51,7 @@ Image caption
 Buttons
 Card
 
-#Patterns
+# Patterns
 
 The general pattern of the webpage should be as follows:
 
@@ -81,7 +81,7 @@ The following pages should be present:
 Blog Homepage
 Blog Post
 
-#Layout
+## Layout
 
 Flexbox Based Layout
 
@@ -91,7 +91,7 @@ Grid Based Layout
 
 Uses CSS Grid at least twice throughout the project to create the layout for pages
 
-#Responsiveness
+# Responsiveness
 
 Multi-Device Web Design
 
@@ -99,7 +99,7 @@ Pages are mobile-friendly and display correctly on all display sizes (mobile, ta
 
 Note: You can simulate Mobile Devices with Device Mode in Chrome DevTools.
 
-#Quality
+# Quality
 
 Valid HTML
 
@@ -137,7 +137,7 @@ The code uses shorthand properties where possible.
 [Optional] Code uses 3-character hexadecimal notation where possible.
 [Optional] Code separates words in ID and class names by a hyphen.
 
-#Suggestions to Make Your Project Stand Out!
+# Suggestions to Make Your Project Stand Out!
 Custom Text: You are welcome to use Lorem ipsum or other placeholder text in your blog and blog posts, but putting in real, custom text can make your project look even more impressive!
 Pattern - Related Articles: Add 2 to 3 fake blog post references after the blog post ends (i.e. to older blog posts)
 Pattern - Subscribe Form: Instead of a fake subscribe link on the blog, there is an actual form area with name and email input fields and a subscribe button.
