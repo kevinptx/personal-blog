@@ -33,12 +33,12 @@ Custom images, layout, and styling.
 # Foundations/Building Blocks
 
 Typography: Custom design for typography with at least 3 unique properties for each typography selector
-Headers (h1 to h3 at minimum) <h1>
+Headers (h1 to h3 at minimum) (h1 tag)
 Paragraph Text (p tag)
 a. Bold
 b. Italic
 c. Underlined
-Links <a>
+Links (a tag)
 Quotes
 Colors: At least 3 colors are used.
 
