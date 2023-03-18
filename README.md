@@ -34,7 +34,7 @@ Custom images, layout, and styling.
 
 Typography: Custom design for typography with at least 3 unique properties for each typography selector
 Headers (h1 to h3 at minimum) <h1>
-Paragraph Text `<p>`
+Paragraph Text (p tag)
 a. Bold
 b. Italic
 c. Underlined
