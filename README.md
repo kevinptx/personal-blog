@@ -2,7 +2,7 @@
 
 ## This Personal Blog Website is the first of four projects for <b>[Udacity's Front End Developer Nanodegree](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd0011)</b>
 
-The blog can be viewed on my<b>[GitHub Pages link](kevinptx.github.io/personal-blog/)</b>  at: kevinptx.github.io/personal-blog/
+The blog can be viewed on my <b>[GitHub Pages link](kevinptx.github.io/personal-blog/)</b>  at: kevinptx.github.io/personal-blog/
 
 # Below are the critiera that must be met to pass:
 
