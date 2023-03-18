@@ -29,3 +29,24 @@ figcaption {
     line-height: 2;
     padding: 1.5rem;
 }
+
+.dev-languages {
+    text-align: center;
+}
+
+.languages {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    /* Display grid in 4 columns */
+    grid-gap: 10px;
+    /* Add gap of 10px between grid items */
+    list-style: none;
+    /* Remove bullet points */
+}
+
+.languages li {
+    background-color: #f0f0f0;
+    /* Set background color for each list item */
+    padding: 10px;
+    text-align: center;
+}
