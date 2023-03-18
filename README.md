@@ -137,7 +137,7 @@ The code uses shorthand properties where possible.
 [Optional] Code uses 3-character hexadecimal notation where possible.
 [Optional] Code separates words in ID and class names by a hyphen.
 
-# Suggestions to Make Your Project Stand Out!
+## Suggestions to Make Your Project Stand Out!
 Custom Text: You are welcome to use Lorem ipsum or other placeholder text in your blog and blog posts, but putting in real, custom text can make your project look even more impressive!
 Pattern - Related Articles: Add 2 to 3 fake blog post references after the blog post ends (i.e. to older blog posts)
 Pattern - Subscribe Form: Instead of a fake subscribe link on the blog, there is an actual form area with name and email input fields and a subscribe button.
