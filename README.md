@@ -26,11 +26,11 @@ There is an intentional user flow on each page with appropriate links as needed.
 
 #Design
 
-##Custom Design
+#Custom Design
 
 Custom images, layout, and styling.
 
-##Foundations/Building Blocks
+#Foundations/Building Blocks
 
 Typography: Custom design for typography with at least 3 unique properties for each typography selector
 Headers (h1 to h3 at minimum) <h1>
@@ -51,7 +51,7 @@ Image caption
 Buttons
 Card
 
-##Patterns
+#Patterns
 
 The general pattern of the webpage should be as follows:
 
